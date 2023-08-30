@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+  *{
+    font-family: 'Poppins', 'sans-serif';
+  }
+
+body{
+    line-height: 37px;
+    font-size: 30px;
+    color:aliceblue;
+    background-color: #020617
+    
+}
+.verde{
+    color: #22c55e;
+}
+.nome{
+    font-size: 50px;
+    text-align: center;
+    color: #22c55e;
+}
+.contato img{
+    height: 150px;
+    width: 150px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     width: 100%;
+     height: auto;
+}
+.img {
+    border-radius: 50%;
+    
+}
+.icon{
+    font-size: 15rem;
+    color: #f8fafc;
+}
